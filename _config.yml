@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Sejong SSG Blog
+email: sejongsecu@gmail.com
+description: Techblog of Sejong Security Group
 url: # the base hostname & protocol for your site
 
 
@@ -14,11 +14,11 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         /articles/:year-:month-:day/:title
 
 kramdown:
   auto_ids: true
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: SejongSSG
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Sejong Security Group"
+  bio: "Techblog of Sejong Security Group"
   email:
   disqus-shortname:
   twitter: #username
