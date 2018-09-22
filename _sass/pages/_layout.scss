@@ -30,7 +30,7 @@
     display: block;
     color: #F36170;
     font-size: 3.75em;
-    text-transform: lowercase;
+    text-transform: upercase;
   }
   .author_job {
     display: block;
@@ -80,7 +80,7 @@
     & a {
       margin-top: 1em;
       text-transform: lowercase;
-      font-size: 100%;
+      font-size: 0.9em;
       color: $secondary;
       &:hover,
       &:focus {
