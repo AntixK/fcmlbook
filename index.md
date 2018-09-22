@@ -17,7 +17,7 @@ A year ago, I decided to stop fooling myself that I *knew* Machine Learning and 
 
 Farrago of Concepts in Machine Learning (or FCML in short) is a book that attempts to provide an in-depth understanding of a wide range of topics in Machine learning and Deep Learning. "in-depth" here refers to the extent to which one can dive in, yet surface safely without drowning in the abyss of mathematics. This book presents a lot of insights for simpler understanding rather than the simply repeated descriptions of the same concepts across books.  I got a lot of inspiration and insights from blog posts compared to books (or maybe that's simply an effect of technology). Therefore, many abstract concepts that help unify different topics and/or provide a higher-level understanding are discussed in detail. 
 
-![alt text](assets/images/book_char2.png)
+![alt text](img/book_char2.png)
 
 People often quote Einstein for saying "If you can't explain it simply, you don't understand it well enough" but a better quote, in my opinion, is 
 
