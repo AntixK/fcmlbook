@@ -1,3 +1,3 @@
-## FCML Book
+## Farrago of Comcepts in Machine Learning
 
-Website for FCML Book. <https://antixk.github.io/fcmlbook/>
+Companion website for FCML Book. <https://antixk.github.io/fcmlbook/>
