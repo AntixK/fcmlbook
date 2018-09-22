@@ -1,7 +1,7 @@
 ---
-bg: "front.png"
-layout: default
+layout: page
 title:  "Book Info"
+permalink: /Book Info/
 crawlertitle: "FCML Book"
 date:   2018-06-28 23:09:47 +0700
 categories: posts
