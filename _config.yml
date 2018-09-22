@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Sejong SSG Blog
-email: sejongsecu@gmail.com
-description: Techblog of Sejong Security Group
-url: # the base hostname & protocol for your site
+title: Anand's FCMl Book Site
+email: anandkrish894@gmail.com
+description: Website of FCML Book
+url: https://antixk.github.io/fcmlbook/ # the base hostname & protocol for your site
 
 
 #
@@ -14,7 +14,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Seoul
+timezone:          Asia/Tokyo
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: SejongSSG
+  name: Anand
   avatar: leonids-logo.png
   job: "Sejong Security Group"
   bio: "Techblog of Sejong Security Group"
