@@ -1,12 +1,7 @@
 ---
-bg: "front.png"
 layout: default
 title:  "Book Info"
 crawlertitle: "FCML Book"
-date:   2018-06-28 23:09:47 +0700
-categories: posts
-tags: 'book'
-author: Anand Krishnamoorthy
 ---
 
 ## About Machine Learning
