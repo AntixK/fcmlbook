@@ -33,9 +33,9 @@ kramdown:
 ####################################
 #
 owner:
-  name: FCML
+  name: Farrago of Concepts in Machine Learning
   avatar: leonids-logo.png
-  job: "A book for ML Researchers"
+  job: "ML Book for Researchers"
   bio: "Anand Krishnamoorthy"
   email: anandkrish894@gmail.com
   disqus-shortname: antixk
