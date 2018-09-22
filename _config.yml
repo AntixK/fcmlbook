@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
+title: Farrago of Concepts in Machine Learning
+email: anandkrish894@gmail.com
+description: Companion Website for FCML book
+url: https://antixk.github.io/fcmlbook/ # the base hostname & protocol for your site
 
 
 #
@@ -14,7 +14,7 @@ url: https://renyuanz.github.io/leonids # the base hostname & protocol for your 
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Tokyo
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: FCML
   avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
+  job: "A book for ML Researchers"
+  bio: "sheep"
+  email: anandkrish894@gmail.com
   disqus-shortname: renyuanzblog
   twitter: renyuan814 #username
   facebook: #username
