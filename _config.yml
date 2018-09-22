@@ -36,14 +36,14 @@ owner:
   name: FCML
   avatar: leonids-logo.png
   job: "A book for ML Researchers"
-  bio: "sheep"
+  bio: "A Book for ML Researchers"
   email: anandkrish894@gmail.com
-  disqus-shortname: renyuanzblog
+  disqus-shortname: antixk
   twitter: AnandkrishAK #username
   facebook: #username
   google:
     plus: #username
-    analytics: UA-62251910-2
+    analytics: 
     verify:
     ad-client:
     ad-slot:
