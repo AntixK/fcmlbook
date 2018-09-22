@@ -4,7 +4,6 @@ layout: page
 title:  "FCML Book"
 crawlertitle: "FCML Book"
 ---
-
 ## About Machine Learning
 Artificial Intelligence is the fad now. 
 
