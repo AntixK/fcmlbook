@@ -1,4 +1,5 @@
 ---
+bg: "img/avatar.jpg"
 layout: page
 title:  "FCML Book"
 crawlertitle: "FCML Book"
