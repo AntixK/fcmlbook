@@ -2,6 +2,7 @@
 layout: page
 title:  "Book Info"
 crawlertitle: "FCML Book"
+comments:true
 ---
 
 ## About Machine Learning
