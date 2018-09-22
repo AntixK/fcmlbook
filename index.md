@@ -2,7 +2,6 @@
 layout: page
 title:  "Book Info"
 crawlertitle: "FCML Book"
-permalink: /FCML Book/
 ---
 
 ## About Machine Learning
