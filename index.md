@@ -3,7 +3,7 @@ layout: page
 title:  "Book Info"
 crawlertitle: "Book Info"
 ---
-Welcome to the companion website for the book "Farrago of Concepts in Machine Learning". The book is in final stages of completion and will be out to the public very soon!
+Welcome to the companion website for the book "Farrago of Concepts in Machine Learning" by Anand Krishnamoorthy. The book is currently in the final stages of completion and will be out to the public very soon!
 ## About Machine Learning
 Artificial Intelligence is the fad now. 
 
