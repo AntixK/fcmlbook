@@ -1,6 +1,6 @@
 /* LAYOUT CSS */
 .cover {
-  background-color: $background-color;
+  background-color: #222930;
   position: fixed;
   text-align: center;
   width: 100%;
@@ -28,13 +28,13 @@
   }
   .author_name {
     display: block;
-    color: #F36170;
+    color: #4EB1BA; //#F36170;
     font-size: 1.8em;
     text-transform: uppercase;
   }
   .author_job {
     display: block;
-    color: $secondary;
+    color: #E9E9E9; // $secondary;
     font-size: 1.0em;
     font-weight: 700;
     text-transform: uppercase;
