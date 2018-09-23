@@ -3,6 +3,7 @@ layout: page
 title:  "Book Info"
 crawlertitle: "Book Info"
 ---
+Welcome to the companion website for the book "Farrago of Concepts in Machine Learning". The book is in final stages of completion and will be out to the public very soon!
 ## About Machine Learning
 Artificial Intelligence is the fad now. 
 
@@ -27,6 +28,8 @@ The book is divided into 4 main parts -
  
 ______
 
+------
+
 ## What's inside
 - Most of the mathematics required to understand and **appreciate** Machine Learning
 - Description of almost all the latest and successful ML models and techniques
@@ -42,3 +45,13 @@ Hey there folks of `r/MachineLearning` and `r/learnmachinelearning`, this book i
 ## About the author
 A human with a strong passion towards Machine Learning (and a bit wiser now, I hope..).
 How was my experience in writing this book, you ask? Imagine diving into the ocean, landing flat on your back, drowning in pain, surfacing and learning to stay afloat yet not knowing which direction to swim to reach the NIPS conference. I think this says all you wanna know about me.
+
+### Citing this book
+@misc{Krishnamoorthy2018, 
+    author = "Krishnamoorthy, Anand. S",
+    title = "Farrago of Concepts in Machine Learning",
+    edition = "First",
+    year = "2018",
+    howpublished = "\url{https://antixk.github.io/fcmlbook/}",
+    note = "[Online;]"
+}
