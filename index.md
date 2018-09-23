@@ -40,7 +40,7 @@ ______
 ## About the reader
 Hey there folks of `r/MachineLearning` and `r/learnmachinelearning`, this book is mainly for you. You may appreciate this book if you have some knoeledge avout Multivariable Calculus and Linear Algebra. Additionally, some experience in programming -especially vectorization (in Languages like Python/Matlab)- would be of great help in appreciating and understanding the algorithms. Ability to imagine and visualize will definitely accelerate your understanding.
 
-**Reporting Errata -** If you find any incorrect information/typographical errors or feedback, please forward them to `anandkrish@gmail.com` with "INFO ERROR - FCML", "TYPO ERROR - FCML" or "FEEDBACK - FCML" in the subject.
+**Reporting Errata -** If you find any incorrect information/typographical errors or wish to give some feedback, please forward them to `anandkrish@gmail.com` with "INFO ERROR - FCML", "TYPO ERROR - FCML" or "FEEDBACK - FCML" in the subject.
 
 ## About the author
 A human with a strong passion towards Machine Learning (and a bit wiser now, I hope..).
