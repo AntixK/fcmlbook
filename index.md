@@ -47,6 +47,7 @@ A human with a strong passion towards Machine Learning (and a bit wiser now, I h
 How was my experience in writing this book, you ask? Imagine diving into the ocean, landing flat on your back, drowning in pain, surfacing and learning to stay afloat yet not knowing which direction to swim to reach the NIPS conference. I think this says all you wanna know about me.
 
 ### Citing this book
+```
 @misc{Krishnamoorthy2018, 
     author = "Krishnamoorthy, Anand. S",
     title = "Farrago of Concepts in Machine Learning",
@@ -55,3 +56,4 @@ How was my experience in writing this book, you ask? Imagine diving into the oce
     howpublished = "\url{https://antixk.github.io/fcmlbook/}",
     note = "[Online;]"
 }
+```
