@@ -5,7 +5,7 @@ crawlertitle: "Book Info"
 ---
 Welcome to the companion website for the book **Farrago of Concepts in Machine Learning** by Anand Krishnamoorthy. The book is currently in the final stages of completion and will be out to the public very soon!
 ## About Machine Learning
-Artificial Intelligence is the fad now. 
+yet to write...
 
 ## About the book
 A year ago, I decided to stop fooling myself that I *knew* Machine Learning and instead to learn the subject rigorously. As I started learning more concepts in-depth, my notes rapidly grew. I then decided to instead release my notes as a book so that it can be helpful to another poor soul diving into this field. I wouldn't call this an introductory book, but it is mainly to understand the concepts once you have *come across* them in MOOCs/YouTube or other places. When I showed a draft of this book to my friend, she remarked `...an Machine Learning book for research students` and that is exactly what it is. But only the readers will tell if I have really succeeded in reaching the concerned audience. 
