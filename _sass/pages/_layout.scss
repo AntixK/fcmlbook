@@ -28,7 +28,7 @@
   }
   .author_name {
     display: block;
-    color: #E9E9E9; //#F36170;
+    color: #F36170; //#F36170;
     font-size: 1.8em;
     text-transform: uppercase;
   }
@@ -43,7 +43,7 @@
   .author_bio {
     font-size: 1.5em;
     display: block;
-    color: #F36170;
+    color: #E9E9E9;
   }
   @include media-query($medium-screen) {
     text-align: right;
