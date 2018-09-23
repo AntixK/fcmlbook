@@ -7,7 +7,7 @@ crawlertitle: "Book Info"
 Artificial Intelligence is the fad now. 
 
 ## About the book
-A year ago, I decided to stop fooling myself that I *knew* Machine Learning and instead to learn the subject rigorously. As I started learning more concepts in-depth, my notes rapidly grew. I then decided to instead release my notes as a book so that it can be helpful to another poor soul diving into this field. I wouldn't call this an introductory book, but it is mainly to understand the concepts once you have *come across* them in MOOCs/YouTube or other places. When I showed a draft of this book to my friend, she remarked `...a book for ML research students` and that is exactly what it is. But only the readers will tell if I have really succeeded in reaching the concerned audience. 
+A year ago, I decided to stop fooling myself that I *knew* Machine Learning and instead to learn the subject rigorously. As I started learning more concepts in-depth, my notes rapidly grew. I then decided to instead release my notes as a book so that it can be helpful to another poor soul diving into this field. I wouldn't call this an introductory book, but it is mainly to understand the concepts once you have *come across* them in MOOCs/YouTube or other places. When I showed a draft of this book to my friend, she remarked `...a ML book for research students` and that is exactly what it is. But only the readers will tell if I have really succeeded in reaching the concerned audience. 
 
 Farrago of Concepts in Machine Learning (or FCML in short) is a book that attempts to provide an in-depth understanding of a wide range of topics in Machine learning and Deep Learning. "in-depth" here refers to the extent to which one can dive in, yet surface safely without drowning in the abyss of mathematics. This book presents a lot of insights for simpler understanding rather than the simply repeated descriptions of the same concepts across books.  I got a lot of inspiration and insights from blog posts compared to books (or maybe that's simply an effect of technology). Therefore, many abstract concepts that help unify different topics and/or provide a higher-level understanding are discussed in detail. 
 
@@ -31,13 +31,13 @@ ______
 - Most of the mathematics required to understand and **appreciate** Machine Learning
 - Description of almost all the latest and successful ML models and techniques
 - Motivations and Insights that help to see the bigger picture
-- Pseudo-code for 30+ popular ML/DL algorithms
-- Beautiful plots (Courtsey - My friend)
+- Pseudo-code for over 30+ popular ML/DL algorithms
+- 90+ Beautiful illustrations and plots describing various concepts
 
 ## About the reader
-Hey there folks of `r/MachineLearning` and `r/learnmachinelearning`! This is mainly for you. The reader may appreciate this book if she/he has some experience with Multivariable Calculus and Linear Algebra. Additionally, if the reader has some experience in programming -especially vectorization (in Languages like Python/Matlab)- it would be of great help understanding the algorithms. Ability to imagine, visualize may accelerate the reader's understanding.
+Hey there folks of `r/MachineLearning` and `r/learnmachinelearning`, this book is mainly for you. You may appreciate this book if you have some knoeledge avout Multivariable Calculus and Linear Algebra. Additionally, some experience in programming -especially vectorization (in Languages like Python/Matlab)- would be of great help in appreciating and understanding the algorithms. Ability to imagine and visualize will definitely accelerate your understanding.
 
-If you find any incorrect information/typographical errors, please forward them to `anandkrish@gmail.com` with "INFO ERROR - FCML" or "TYPO ERROR - FCML" in the subject.
+**Reporting Errata -** If you find any incorrect information/typographical errors or feedback, please forward them to `anandkrish@gmail.com` with "INFO ERROR - FCML", "TYPO ERROR - FCML" or "FEEDBACK - FCML" in the subject.
 
 ## About the author
 A human with a strong passion towards Machine Learning (and a bit wiser now, I hope..).
