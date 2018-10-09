@@ -8,6 +8,7 @@
   padding: 30px 15px 20px;
   z-index: 1;
   @include media-query($small-screen) {
+    height: 140vh;
     background-position: center;
     padding: 30px;
   }
